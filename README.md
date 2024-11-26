@@ -1,1 +1,1 @@
-# final-vidtube-html-css-mini-project
+# vid-tube-mini-project
